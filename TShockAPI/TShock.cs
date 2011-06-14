@@ -37,9 +37,9 @@ namespace TShockAPI
 
         public static string saveDir = "./tshock/";
 
-        public static Version VersionNum = new Version(2, 1, 0, 3);
+        public static Version VersionNum = new Version(2, 2, 0, 0);
 
-        public static string VersionCodename = "Forgot to increase the version.";
+        public static string VersionCodename = "Terraria Online Edition!";
 
         private static bool[] BlacklistTiles;
 

@@ -227,12 +227,12 @@ namespace TShockAPI
             commands.Add(new Command("antibuild", "editspawn", ToggleAntiBuild));
             if (ConfigurationManager.distributationAgent != "terraria-online")
             {
-                commands.Add(new Command("kill", "kill", Kill));
-                commands.Add(new Command("butcher", "cheat", Butcher));
-                commands.Add(new Command("i", "cheat", Item));
-                commands.Add(new Command("item", "cheat", Item));
-                commands.Add(new Command("give", "cheat", Give));
-                commands.Add(new Command("heal", "cheat", Heal));
+                //commands.Add(new Command("kill", "kill", Kill));
+                //commands.Add(new Command("butcher", "cheat", Butcher));
+                //commands.Add(new Command("i", "cheat", Item));
+                //commands.Add(new Command("item", "cheat", Item));
+                //commands.Add(new Command("give", "cheat", Give));
+                //commands.Add(new Command("heal", "cheat", Heal));
             }
         }
 
